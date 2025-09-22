@@ -1,90 +1,71 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 🌐 My Portfolio Website  
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+This is my personal portfolio website built as part of the PLP Web Technologies Final Project.  
+It showcases my skills, projects, and experiences while also serving as a live professional website.  
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
-
----
-
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+🔗 **Live Site:** [vimutai.github.io/portfoliowebsite](https://vimutai.github.io/portfoliowebsite/)  
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
-
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+## 📌 Purpose  
+The website is designed to:  
+- Present my professional profile and skills.  
+- Share my projects and achievements.  
+- Provide a way for visitors to connect with me.  
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
-
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+## 📂 Website Structure  
+The site includes multiple pages with consistent navigation:  
+- **Home** – Introduction and quick overview.  
+- **About Me** – My background, experience, and story.  
+- **Skills** – Technical and soft skills.  
+- **Projects** – Showcase of my work.  
+- **Contact** – Ways to reach me.  
 
 ---
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+## 👩‍💻 About Me  
+My name is **Vivian Mutai**, a graduate in **Business Management and Information Technology**.  
+I transitioned into the tech field through the **AWS re/Start program**, where I earned my **Cloud Practitioner certification** and later advanced toward a **Solutions Architect certification**.  
 
-Once your project is complete, choose a method to **host your site online**.
+I have experience in:  
+- **Data Annotation & Labeling** (3+ years)  
+- **Property Management support**  
+- **Cloud Computing fundamentals**  
+- **Python programming** (currently sharpening my skills in data engineering and analysis)  
 
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+I am passionate about using technology to create solutions, improve efficiency, and open new opportunities for growth.  
 
 ---
 
-## Deliverables
+## 🛠️ Skills  
 
-1. A GitHub repository containing:
+### 🌐 Technical Skills  
+- **HTML5, CSS3, JavaScript** – Building responsive, interactive websites  
+- **Python** – Data structures, file handling, projects (e.g., task manager, book tracker, math game)  
+- **SQL Basics** – Joins, queries, and database handling  
+- **Cloud Computing (AWS)** – Cloud concepts, architecture, and deployment fundamentals  
+- **Git & GitHub** – Version control and project deployment  
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+### 💡 Soft Skills  
+- Problem-solving and adaptability  
+- Clear communication and collaboration  
+- Project planning and organization  
+- Continuous learning mindset  
 
 ---
 
-## Outcome
+## 🚀 Features of This Website  
+- Fully responsive across devices  
+- Interactive navigation and elements  
+- Clean and organized folder structure (`/css`, `/js`, `/images`)  
+- Deployed and accessible online via GitHub Pages  
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+---
+
+## 📦 Project Setup  
+To view or run locally:  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/vimutai/portfoliowebsite.git
